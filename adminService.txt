@@ -7,9 +7,7 @@ login logout
 change in main
 
 close connection
-<<<<<<< HEAD
 
 start
-=======
 end
->>>>>>> 130f80790aaa343a7fa90f7ea92230252ee39d62
+
