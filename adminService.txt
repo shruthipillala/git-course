@@ -1,5 +1,3 @@
 
 add and remove user
-
-close connection
-end
+just lite-version
